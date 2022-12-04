@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenDataBase", "GenDataBase\GenDataBase.csproj", "{998743CC-482A-4132-8001-E9F21BE1CA00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repo", "Repo\Repo.csproj", "{3D0D53AC-EDCA-4B07-84CB-F37284893ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{998743CC-482A-4132-8001-E9F21BE1CA00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998743CC-482A-4132-8001-E9F21BE1CA00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998743CC-482A-4132-8001-E9F21BE1CA00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998743CC-482A-4132-8001-E9F21BE1CA00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0D53AC-EDCA-4B07-84CB-F37284893ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0D53AC-EDCA-4B07-84CB-F37284893ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0D53AC-EDCA-4B07-84CB-F37284893ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0D53AC-EDCA-4B07-84CB-F37284893ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {693452C1-BE72-4420-A296-A67C83FF3889}
+	EndGlobalSection
+EndGlobal
